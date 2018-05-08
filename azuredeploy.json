@@ -218,7 +218,7 @@
     },
     "WEBSITE_NODE_DEFAULT_VERSION": {
         "type": "string",
-        "defaultValue": "8.5.0"
+        "defaultValue": "8.9.0"
     }
   },
   "resources": [{
